@@ -2,7 +2,7 @@
 
 ## Your Software Soul in Another Hardware Body
 
-### Transmigrator is a "bombShell" that runs VM hidden services over Tor for clients to reach clearnet via Tails remote desktops with the decoy IP and MAC addresses of their hosts. It is compatible with Unix-like systems, v1 focusing on Linux distros of the Debian family.
+### Transmigrator is a "bombShell" to run VM hidden services over Tor so clients reach clearnet via Tails remote desktops with the decoy IP/MAC addresses of their hosts. It is compatible with Unix-like systems, v1 focusing on Linux distros of the Debian family.
 
 ### Specifications
 
